@@ -1,7 +1,5 @@
-// import 'package:app_images/providers/export_providers.dart';
 import 'package:flutter/material.dart';
 
-// import 'package:app_images/utils/constants.dart';
 import 'package:app_images/utils/responsive.dart';
 
 String formatZeros(double n1, double n2) {
@@ -29,7 +27,6 @@ void showSnackBar(BuildContext context, Responsive responsive, bool indicator, S
   ScaffoldMessenger.of(context).showSnackBar(snackbar);
 }
 
-//Aletras de acciones satisfactorias
 void showSuccessfull(BuildContext context, String message){
   final responsive=Responsive.of(context);
 
@@ -77,7 +74,6 @@ void showSuccessfull(BuildContext context, String message){
   );
 }
 
-//Estructura base de Dialog de una alerta
 void showBaseAlert(BuildContext context, String message, IconData icon, Color color){
   final responsive=Responsive.of(context);
 
