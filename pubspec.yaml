@@ -1,0 +1,46 @@
+name: app_images
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.3
+  curved_navigation_bar: ^1.0.3
+  page_transition: ^2.0.9
+  flutter_native_splash: ^0.3.2
+
+flutter_native_splash:
+  color: '#0E2F4C'
+  image: assets/background/front-page.jpg
+  android: true
+  ios: true
+  web: false
+  android_gravity: center
+  ios_content_mode: center
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/keyboards/
+    - assets/media/
+    - assets/watches/
+    - assets/background/
