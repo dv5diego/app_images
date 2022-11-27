@@ -1,14 +1,8 @@
-# app_images
+# app_products
 
-A new Flutter project.
+Application that allows you to view the list of most popular products by category and add them to the wish list.
 
-![image](https://user-images.githubusercontent.com/101533841/203635252-b8b74928-9bbb-49c0-b6a3-2918149251fc.png)
-
-![image](https://user-images.githubusercontent.com/101533841/203635543-f7caf9a8-2268-4d8a-95f6-e2fbc1962f40.png)
-
-![image](https://user-images.githubusercontent.com/101533841/203636008-f61c4e9b-a697-4c3a-a463-d2e2930d0d6e.png)
-
-![image](https://user-images.githubusercontent.com/101533841/203635805-be429440-528d-4eff-9d27-dcfe56c97f76.png)
+![image](https://user-images.githubusercontent.com/101533841/203635252-b8b74928-9bbb-49c0-b6a3-2918149251fc.png) ![image](https://user-images.githubusercontent.com/101533841/203635543-f7caf9a8-2268-4d8a-95f6-e2fbc1962f40.png) ![image](https://user-images.githubusercontent.com/101533841/203636008-f61c4e9b-a697-4c3a-a463-d2e2930d0d6e.png) ![image](https://user-images.githubusercontent.com/101533841/203635805-be429440-528d-4eff-9d27-dcfe56c97f76.png)
 
 
 ## Getting Started
